@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Indoor air quality monitoring system"
+excerpt: "An Indoor Air Quality Monitoring System is an IoT-based system that monitors the quality of air inside places such as homes, classrooms, and offices. It uses sensors to measure CO₂, temperature, humidity, smoke, and harmful gases. The collected data is processed by a microcontroller like ESP32 or Arduino and displayed on a screen or web dashboard. If the air quality becomes poor, the system can send an alert, helping people take necessary actions such as improving ventilation."
 collection: portfolio
 ---
 
